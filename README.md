@@ -1,10 +1,10 @@
-# parcelini
+# Issue Manager
 
 ## For Backend
 
 1. Clone the repository and enter that directory
 
-`git clone https://github.com/Parcelini/parcelini.git`
+`git clone https://github.com/mahiworld/Issue-Manager.git`
 
 2. Go inside api directory within main app
 `cd api`
