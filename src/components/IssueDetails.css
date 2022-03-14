@@ -1,0 +1,51 @@
+.containerTable {
+
+	/*background-color: #dddddd;*/
+}
+
+.headingContainer,.container {
+	display: flex;
+	text-align: center;
+}
+
+.head, .field {
+	padding: 10px 20px;
+	width: 300px;
+}
+
+.head:nth-child(1), .field:nth-child(1) {
+	width: 20px;
+}
+
+.head:nth-child(4), .field:nth-child(4) {
+	width: 550px;
+}
+
+.head:nth-child(5), .field:nth-child(5) {
+	width: 150px;
+}
+
+.field:last-child {
+	color: red;
+}
+
+.field:last-child:hover {
+cursor: pointer;
+}
+
+.tableHeading {
+	color: #333333;
+	font-weight: 700;
+	font-size: 24px;
+	margin: 50px 0 ;
+	padding-left: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	background-color: #dddddd;
+}
+
+.field{
+	border-bottom: 1px solid #dddddd;
+	background-color: #eeeeee;
+
+}
